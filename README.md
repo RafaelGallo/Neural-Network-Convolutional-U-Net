@@ -100,5 +100,5 @@ streamlit run app.py
 
 * Model: [U-Net paper (Ronneberger et al.)](https://arxiv.org/abs/1505.04597)
 * Paper: [U-Net (Olaf Ronneberger, Philipp Fischer, and Thomas Brox)](https://arxiv.org/pdf/1505.04597)
-* Streamlit app and code: [Rafael Gallo](https://github.com/RafaelGallo)
-* Datasets: Publicly available on Kaggle [Dataset]()
+* Streamlit app and code: [Deploy CNN U-Net](https://neural-network-convolutional-u-net-moua86stqd5wuyyapskokl.streamlit.app/)
+* Datasets: Publicly available on Kaggle [Dataset](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)
